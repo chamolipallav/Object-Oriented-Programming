@@ -1,0 +1,5 @@
+/Users/pallavchamoli/Projects/Ass1/Ass1/obj/Debug/Ass1.csprojAssemblyReference.cache
+/Users/pallavchamoli/Projects/Ass1/Ass1/bin/Debug/Ass1.exe
+/Users/pallavchamoli/Projects/Ass1/Ass1/bin/Debug/Ass1.pdb
+/Users/pallavchamoli/Projects/Ass1/Ass1/obj/Debug/Ass1.exe
+/Users/pallavchamoli/Projects/Ass1/Ass1/obj/Debug/Ass1.pdb

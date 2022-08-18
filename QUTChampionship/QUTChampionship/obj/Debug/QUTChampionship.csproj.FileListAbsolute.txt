@@ -1,0 +1,6 @@
+/Users/pallavchamoli/Projects/QUTChampionship/QUTChampionship/bin/Debug/QUTChampionship.exe
+/Users/pallavchamoli/Projects/QUTChampionship/QUTChampionship/bin/Debug/QUTChampionship.pdb
+/Users/pallavchamoli/Projects/QUTChampionship/QUTChampionship/obj/Debug/QUTChampionship.csprojAssemblyReference.cache
+/Users/pallavchamoli/Projects/QUTChampionship/QUTChampionship/obj/Debug/QUTChampionship.csproj.CoreCompileInputs.cache
+/Users/pallavchamoli/Projects/QUTChampionship/QUTChampionship/obj/Debug/QUTChampionship.exe
+/Users/pallavchamoli/Projects/QUTChampionship/QUTChampionship/obj/Debug/QUTChampionship.pdb
